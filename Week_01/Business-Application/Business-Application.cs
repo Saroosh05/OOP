@@ -379,7 +379,7 @@ namespace Business_Application
                                                     Console.Write("                        STATUS : " + compStatus);
                                                 }
                                             }
-                                            else if (task == "3")
+                                            else
                                             {
                                                 Console.SetCursorPosition(74, y + 3 + loopVar + 14);
                                                 Console.Write("Code Not Matched.");
