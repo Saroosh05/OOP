@@ -1,0 +1,7 @@
+D:\uniwork\2nd-Semester\OOP\PD\Week-02\Bussiness-Application-Classes\Bussiness-Application-Classes\bin\Debug\Bussiness-Application-Classes.exe.config
+D:\uniwork\2nd-Semester\OOP\PD\Week-02\Bussiness-Application-Classes\Bussiness-Application-Classes\bin\Debug\Bussiness-Application-Classes.exe
+D:\uniwork\2nd-Semester\OOP\PD\Week-02\Bussiness-Application-Classes\Bussiness-Application-Classes\bin\Debug\Bussiness-Application-Classes.pdb
+D:\uniwork\2nd-Semester\OOP\PD\Week-02\Bussiness-Application-Classes\Bussiness-Application-Classes\obj\Debug\Bussiness-Application-Classes.csproj.AssemblyReference.cache
+D:\uniwork\2nd-Semester\OOP\PD\Week-02\Bussiness-Application-Classes\Bussiness-Application-Classes\obj\Debug\Bussiness-Application-Classes.csproj.CoreCompileInputs.cache
+D:\uniwork\2nd-Semester\OOP\PD\Week-02\Bussiness-Application-Classes\Bussiness-Application-Classes\obj\Debug\Bussiness-Application-Classes.exe
+D:\uniwork\2nd-Semester\OOP\PD\Week-02\Bussiness-Application-Classes\Bussiness-Application-Classes\obj\Debug\Bussiness-Application-Classes.pdb
